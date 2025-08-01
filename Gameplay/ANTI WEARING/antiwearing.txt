@@ -1,0 +1,8 @@
+[en]
+WEARING = ^4[WARNING]^1 You have^4 %i Warning^1 With^4 3^1 you will be permanently banned!!
+
+[es]
+WEARING = ^4[ADVERTENCIA]^1 Tienes^4 %i Advertencia^1 Con^4 3^1 serás baneado permanentemente!!
+
+[bp]
+WEARING = ^4[AVISO]^1 Você tem^4 %i Aviso^1 Com^4 3^1 você será banido permanente !!
