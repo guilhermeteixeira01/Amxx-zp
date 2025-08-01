@@ -1,0 +1,32 @@
+[en]
+BAT_STAT = ^4[ZP]^1 You can release the^4 Bats^1 again.
+BAT_TIME = ^4[ZP]^1 The Cooldown for releasing the ^4 Bats^1. is^4 %.1f ^1seconds.
+SELECIONEB = \y•\d Select \w(LVL: 0)
+DESCRICAOB = \wClass description:
+VIDAB = \y[HP]. \r4500
+SPEEDB = \y[SPEED]. \r280
+GRAVITYB = \y[GRAVITY]. \r0.47
+KNB = \y[KNOCKBACK]. \r0.33
+DCB1 = \d[\rG\d]. \yBATS\w -> releases bats that follow victims
+
+[es]
+BAT_STAT = ^4[ZP]^1 Listo ya puedes soltar los^4 Murciélagos^1 de nuevo.
+BAT_TIME = ^4[ZP]^1 El tiempo de liberar los^4 Murciélagos^1. es^4 %.1f ^1segundos.
+SELECIONEB = \y•\d Selecione \w(LVL: 0)
+DESCRICAOB = \wDescrição da classe:
+VIDAB = \y[VIDA]. \r4800
+SPEEDB = \y[VELOCIDADE]. \r280
+GRAVITYB = \y[GRAVIDADE]. \r0.47
+KNB = \y[KNOCKBACK]. \r0.33
+DCB1 = \d[\rG\d]. \ymurciélagos\w -> libera murciélagos que siguen a las víctimas
+
+[bp]
+BAT_STAT = ^4[ZP]^1 Pronto pode soltar os^4 Morcegos^1 Denovo.
+BAT_TIME = ^4[ZP]^1 O tempo de recarga para soltar os ^4 Morcegos^1. São^4 %.1f ^1segundos.
+SELECIONEB = \y•\d Seleccione \w(LVL: 0)
+DESCRICAOB = \wDescripción de clase:
+VIDAB = \y[VIDA]. \r4500
+SPEEDB = \y[VELOCIDAD]. \r280
+GRAVITYB = \y[GRAVEDAD]. \r0.47
+KNB = \y[KNOCKBACK]. \r0.33
+DCB1 = \d[\rG\d]. \yMORCEGOS\w -> solta morcegos que seguem as vitimas

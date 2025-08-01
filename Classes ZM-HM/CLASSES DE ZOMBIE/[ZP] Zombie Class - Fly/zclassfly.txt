@@ -1,0 +1,35 @@
+[en]
+NAO_PODE_AGACHADO = ^4[ZP]^1 Can't fly crouched !!
+DESCRIPTION = !g[ZP] !yPress !g[G] to fly and [R] to use speed.!y Time !gRecharge time fly[%d] and speed [%d]
+SELECIONE = \y•\d Select \w(Unlocked with role)
+DESCRICAO = \wClass description:
+VIDA = \y[HP]. \r4800
+SPEED = \y[SPEED]. \r280
+GRAVITY = \y[GRAVITY]. \r0.47
+KN = \y[KNOCKBACK]. \r0.33
+DC1 = \d[\rG\d]. \yFLY\w -> You can fly around the map by pressing G again and you can do a ^nrazante^n
+DC2 = \d[\rR\d]. \ySPEED\w -> Speed ​​gain
+
+[es]
+NAO_PODE_AGACHADO = ^4[ZP]^1 No puedo volar agachado !!
+DESCRIPTION = !g[ZP] !yPresiona !g[G] para volar y [R] para usar velocidad.!y Tiempo !gRecarga tiempo de vuelo[%d] y velocidad [%d]
+SELECIONE = \y•\d Seleccione \w(Desbloqueado con rol)
+DESCRICAO = \wDescripción de clase:
+VIDA = \y[VIDA]. \r4800
+SPEED = \y[VELOCIDAD]. \r280
+GRAVITY = \y[GRAVEDAD]. \r0.47
+KN = \y[KNOCKBACK]. \r0.33
+DC1 = \d[\rG\d]. \yFLY\w -> Puedes volar por el mapa presionando G nuevamente y puedes hacer un ^nrazante^n
+DC2 = \d[\rR\d]. \yVELOCIDAD\w -> Ganancia de velocidad
+
+[bp]
+NAO_PODE_AGACHADO = ^4[ZP]^1 Não pode voar agachado !!
+DESCRIPTION = !g[ZP] !yAperte !g[G] para voar e [R] para usar o speed.!y Tempo !gTempo de recarga voar[%d] e speed [%d]
+SELECIONE = \y•\d Selecione \w(Desbloqueado com cargo)
+DESCRICAO = \wDescrição da classe:
+VIDA = \y[VIDA]. \r4800
+SPEED = \y[VELOCIDADE]. \r280
+GRAVITY = \y[GRAVIDADE]. \r0.47
+KN = \y[KNOCKBACK]. \r0.33
+DC1 = \d[\rG\d]. \yVOAR\w -> Consegue voar pelo mapa é apertando G novamente você consegue dar um ^nrazante^n
+DC2 = \d[\rR\d]. \ySPEED\w -> Ganho de velocidade

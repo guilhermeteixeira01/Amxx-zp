@@ -1,0 +1,8 @@
+[en]
+APERTESUPER = ^4[ZP]^1 Press ^4'CTRL+E'^1 to super jump
+
+[bp]
+APERTESUPER = ^4[ZP]^1 Aperte ^4'CTRL+E'^1 para dar um super pulo
+
+[es]
+APERTESUPER = ^4[ZP]^1 Presiona ^4'CTRL+E'^1 para super salto

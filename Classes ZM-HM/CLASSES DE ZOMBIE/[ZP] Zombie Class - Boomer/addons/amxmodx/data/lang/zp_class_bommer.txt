@@ -1,0 +1,17 @@
+[en]
+APERTE_PARAVOMITAR = ^4[ZP]^1 Press ^4[E]^1 and to vomit
+ESPERA_DNV = ^4[ZP]^1 wait ^4%.f0 sec.^1 to vomit again!
+GANHOUPACKS = ^4[ZP]^1 you got^4 %i AMMO PACKS^1 for puking on a human!
+GANHOUPACKSEXPLODIR = ^4[ZP]^1 you got^4 %i AMMO PACKS^1 for exploding near^4 %i^1 humans!
+
+[bp]
+APERTE_PARAVOMITAR = ^4[ZP]^1 Aperte ^4[E]^1 para vomitar
+ESPERA_DNV = ^4[ZP]^1 Espere ^4%.f0 sec.^1 Para Vomitar Denovo!
+GANHOUPACKS = ^4[ZP]^1 Voce ganhou^4 %i AMMO PACKS^1 Por vomitar em um humano!
+GANHOUPACKSEXPLODIR = ^4[ZP]^1 Voce ganhou^4 %i AMMO PACKS^1 Por Explodir perto de^4 %i^1 humanos!
+
+[es]
+APERTE_PARAVOMITAR = ^4[ZP]^1 Presionar ^4[E]^1 vomitar
+ESPERA_DNV = ^4[ZP]^1 esperar ^4%.f0 sec.^1 para volver a vomitar!
+GANHOUPACKS = ^4[ZP]^1 ganó ^4 %i AMMO PACKS^1 para en un humano!
+GANHOUPACKSEXPLODIR = ^4[ZP]^1 ganó^4 %i AMMO PACKS^1 Por explotar cerca de^4 %i^1 humanos!
