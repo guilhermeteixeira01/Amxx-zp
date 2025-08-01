@@ -1,0 +1,8 @@
+[en]
+PRECIONA = ^4[ZP] ^1Press ^4[G] ^1to heal life .
+
+[bp]
+PRECIONA = ^4[ZP] ^1Pressione ^4[G] ^1para curar sua vida .
+
+[es]
+PRECIONA = ^4[ZP] ^1Presione ^4[G] ^1para sanar la vida .

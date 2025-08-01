@@ -1,0 +1,11 @@
+[en]
+PRECIONE = ^4[ZP] ^1Press ^4(G) ^1to become invisible^4.
+ESPERE = ^4[ZP] ^1wait a few seconds to become invisible
+
+[bp]
+PRECIONE = ^4[ZP] ^1Pressione ^4(G) ^1para ficar Invisivel^4.
+ESPERE = ^4[ZP] ^1Espere alguns segundos para ficar Invisivel
+
+[es]
+PRECIONE = ^4[ZP] ^1Presiona ^4(G) ^1para volverte invisible^4.
+ESPERE = ^4[ZP] ^1Espera unos segundos para volverte invisible
