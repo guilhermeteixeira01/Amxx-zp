@@ -1,0 +1,14 @@
+[en]
+PEGOU = ^4[ZP] ^1You took the evil clown and won^4 2 Ammo Pack(s) + 2 Golds^1
+MADNESS = ^4[ZP] ^1You took the evil clown and won^4 MADNESS(s)^1
+DISINFECT = ^4[ZP] ^1You took the evil clown and won^4 DISINFECT(s)^1
+
+[bp]
+PEGOU = ^4[ZP] ^1Voce pegou o palhaco do mal e Ganhou^4 2 Ammo Pack(s) + 2 Golds^1
+MADNESS = ^4[ZP] ^1Voce pegou o palhaco do mal e Ganhou^4 Furia^1
+DISINFECT = ^4[ZP] ^1Voce pegou o palhaco do mal e Ganhou^4 Ant^1
+
+[es]
+PEGOU = ^4[ZP] ^1tomaste al payaso malvado y ganaste^4 2 Ammo Pack(s) + 2 Golds^1
+MADNESS = ^4[ZP] ^1tomaste al payaso malvado y ganaste^4 Madness^1
+DISINFECT = ^4[ZP] ^1tomaste al payaso malvado y ganaste^4 Ant^1
