@@ -1,0 +1,15 @@
+[en]
+NV_TR_NO_FLAG = ^3[&4ZP^3]^4 You Don't Have Access To This Class.
+NV_TR_HD_TIME = ^3[&4ZP^3]^4 Your Hound Will Be Die After %d Sec.
+NV_TR_HD_DIED = ^3[&4ZP^3]^4 Your Hound is Dead ^3R^4I^3P^4.
+NV_TR_ABILITY_TIME = ^3[&4ZP^3]^4 Your Ability Will Be Reloaded After %d Sec.
+NV_TR_HUD_ACTIVATED = -| Dash: Press G |-^n-| Hound:Press R |-
+NV_TR_HUD_LOADING = -| Dash:Loading..|-^n-| Hound:Loading..|
+
+[ru] 
+NV_TR_NO_FLAG = ^3[&4ZP^3]^4 У вас нет доступа к этому классу.
+NV_TR_HD_TIME = ^3[&4ZP^3]^4 Ваша собака умрет после %d сек.
+NV_TR_HD_DIED = ^3[&4ZP^3]^4 Твоя собака мертва ^3R^4I^3P^4.
+NV_TR_ABILITY_TIME = ^3[&4ZP^3]^4 Ваша способность будет перезагружена после %d сек.
+NV_TR_HUD_ACTIVATED = -| Бросок: Нажмите G |-^n-| Гончая: Нажмите R |-
+NV_TR_HUD_LOADING = -| Бросок: Загрузка...|-^n-| Гончая: Загрузка...|
